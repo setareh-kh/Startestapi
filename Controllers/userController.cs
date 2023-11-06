@@ -8,7 +8,7 @@ namespace Controllers
     {
         private static readonly string[] Summaries = new[]
     {
-        "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "Love", "My", "Master", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
     };
 
     }
