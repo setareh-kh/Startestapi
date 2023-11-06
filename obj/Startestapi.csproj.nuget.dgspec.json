@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Backend_class\\Githubrepositories\\Startestapi\\Startestapi.csproj": {}
+    "E:\\MyInstitute\\Githubrepositories\\Startestapi.csproj": {}
   },
   "projects": {
-    "E:\\Backend_class\\Githubrepositories\\Startestapi\\Startestapi.csproj": {
+    "E:\\MyInstitute\\Githubrepositories\\Startestapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Backend_class\\Githubrepositories\\Startestapi\\Startestapi.csproj",
+        "projectUniqueName": "E:\\MyInstitute\\Githubrepositories\\Startestapi.csproj",
         "projectName": "Startestapi",
-        "projectPath": "E:\\Backend_class\\Githubrepositories\\Startestapi\\Startestapi.csproj",
+        "projectPath": "E:\\MyInstitute\\Githubrepositories\\Startestapi.csproj",
         "packagesPath": "C:\\Users\\Star\\.nuget\\packages\\",
-        "outputPath": "E:\\Backend_class\\Githubrepositories\\Startestapi\\obj\\",
+        "outputPath": "E:\\MyInstitute\\Githubrepositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Star\\AppData\\Roaming\\NuGet\\NuGet.Config"
